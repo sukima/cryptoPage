@@ -1,0 +1,5 @@
+node_modules/
+src/*.js
+public/docs/
+public/application.js
+public/application.css
