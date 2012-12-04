@@ -2,5 +2,8 @@
   "public": "./public",
   "paths": ["./src"],
   "dependencies": [],
-  "libs": ["./lib/sjcl.js"]
+  "libs": [
+    "./lib/jquery.js",
+    "./lib/sjcl.js"
+  ]
 }
