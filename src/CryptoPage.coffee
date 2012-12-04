@@ -5,4 +5,4 @@ class CryptoPage
   decrypt: (text) ->
     text.toUpperCase()
 
-window.CryptoPage = CryptoPage
+module.exports = CryptoPage
